@@ -43,7 +43,7 @@ Passionate about **cloud data engineering, analytics, and scalable data systems*
 ✔️ Processed and transformed data using **Databricks (PySpark)**  
 ✔️ Delivered **business insights through a Power BI dashboard**  
 
-🔗 *[(Add your GitHub project link here)](https://github.com/Abdoulkarimouattara/azure-ecommerce-data-pipeline)*
+🔗 *[(Project Link](https://github.com/Abdoulkarimouattara/azure-ecommerce-data-pipeline)*
 
 ---
 
