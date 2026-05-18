@@ -7,7 +7,7 @@ I design and build **end-to-end data pipelines on Azure**, transforming raw data
 ---
 
 ## 💡 About Me
-Aspiring Data Engineer with hands-on experience in:
+Azure Data Engineer with hands-on experience in:
 - Building **Medallion architectures (Bronze → Silver → Gold)**  
 - Developing **ETL pipelines with Azure Data Factory**  
 - Performing **data transformation using PySpark (Databricks)**  
@@ -43,7 +43,7 @@ Passionate about **cloud data engineering, analytics, and scalable data systems*
 ✔️ Processed and transformed data using **Databricks (PySpark)**  
 ✔️ Delivered **business insights through a Power BI dashboard**  
 
-🔗 *(Add your GitHub project link here)*
+🔗 *[(Add your GitHub project link here)](https://github.com/Abdoulkarimouattara/azure-ecommerce-data-pipeline)*
 
 ---
 
