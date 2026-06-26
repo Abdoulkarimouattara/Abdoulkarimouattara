@@ -11,7 +11,7 @@
 
 </div>
 
-<h3>
+<h2>
 
 <h2>👨‍💻 About Me</h2>
 
@@ -27,7 +27,7 @@ My work focuses on designing end-to-end data solutions using <b>Microsoft Azure<
 I enjoy solving data challenges by creating robust, maintainable, and scalable architectures that help organizations make data-driven decisions.
 </p>
 
-<h3>
+<h2>
 
 <h2>🚀 What I Build</h2>
 
@@ -43,7 +43,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Cloud Data Warehousing</li>
 </ul>
 
-<h3>
+<h2>
 
 <h2>⭐ Featured Projects</h2>
 
@@ -70,7 +70,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Business KPIs</li>
 </ul>
 
-<h3>
+<h2>
 
 <h2>🏗️ Engineering Principles</h2>
 
@@ -86,7 +86,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Analytics-Ready Data</li>
 </ul>
 
-<h3>
+<h2>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -102,7 +102,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Git & GitHub</li>
 </ul>
 
-<h3>
+<h2>
 
 <h2>📚 Currently Exploring</h2>
 
@@ -114,7 +114,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Modern Data Warehouse Architectures</li>
 </ul>
 
-<h3>
+<h2>
 
 <h2>🤝 Let's Connect</h2>
 
@@ -123,7 +123,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
 📧 Email: <a href="mailto:ouattaraaboudoulkarim@gmail.com">ouattaraaboudoulkarim@gmail.com</a>
 </p>
 
-<h3>
+<h2>
 
 <blockquote>
   <b>Turning raw data into scalable cloud solutions and trusted business insights.</b>
