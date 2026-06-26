@@ -1,17 +1,8 @@
 <div align="center">
 
   <!-- 🔥 BANNIÈRE -->
-  <img src="banner.png" alt="Aboudoul Karim OUATTARA - Cloud Data Engineer Banner" width="100%" />
-
-  <h1>👋 Hi, I'm Aboudoul Karim OUATTARA</h1>
-
-  <h2>Cloud Data Engineer</h2>
-
-  <h3>Building scalable cloud data platforms with Microsoft Azure & Microsoft Fabric</h3>
-
+  <img src="banner.png" alt="Aboudoul Karim OUATTARA - Cloud Data Engineer Banner" width="100%" height="100%" />
 </div>
-
-<h2>
 
 <h2>👨‍💻 About Me</h2>
 
