@@ -121,14 +121,6 @@ Technologies:
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
-
----
-
 # 🤝 Connect with Me
 
 💼 LinkedIn
@@ -137,7 +129,7 @@ https://www.linkedin.com/in/aboudoul-karim-ouattara-5baaba226/
 
 📧 Email
 
-*(Add your professional email here)*
+ouattaraaboudoulkarim@gmail.com
 
 ---
 
