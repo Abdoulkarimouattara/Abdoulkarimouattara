@@ -48,7 +48,11 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Business-ready Gold Layer</li>
   <li>Interactive Power BI Dashboard</li>
 </ul>
-
+<p align="left">
+  <a href="https://github.com/Abdoulkarimouattara/azure-ecommerce-data-pipeline">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-1f6feb?style=for-the-badge&logo=github" />
+  </a>
+</p>
 <h3>🚀 Microsoft Fabric Lakehouse</h3>
 
 <ul>
@@ -60,7 +64,11 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Power BI Report</li>
   <li>Business KPIs</li>
 </ul>
-
+<p align="left">
+  <a href="https://github.com/Abdoulkarimouattara/microsoft-fabric-medallion-architecture">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-1f6feb?style=for-the-badge&logo=github" />
+  </a>
+</p>
 <h2>
 
 <h2>🏗️ Engineering Principles</h2>
