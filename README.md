@@ -94,6 +94,7 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
   <li>Microsoft Fabric</li>
   <li>Azure Data Factory</li>
   <li>Azure Databricks</li>
+  <li>Dataflow Gen2</li>
   <li>Azure Data Lake Storage Gen2</li>
   <li>OneLake</li>
   <li>Python / PySpark / SQL</li>
