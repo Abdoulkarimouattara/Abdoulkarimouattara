@@ -1,136 +1,130 @@
-# 👋 Hi, I'm Aboudoul Karim OUATTARA
+<div align="center">
 
-## Data Engineer | Microsoft Azure | Microsoft Fabric | PySpark | Power BI
+  <!-- 🔥 BANNIÈRE -->
+  <img src="banner.png" alt="Aboudoul Karim OUATTARA - Cloud Data Engineer Banner" width="100%" />
 
-I am a passionate **Data Engineer** specializing in designing and building scalable cloud data platforms using **Microsoft Azure** and **Microsoft Fabric**.
+  <h1>👋 Hi, I'm Aboudoul Karim OUATTARA</h1>
 
-I enjoy transforming raw data into reliable, business-ready insights by implementing modern **Lakehouse architectures**, scalable **ETL/ELT pipelines**, and interactive **Power BI reports**.
+  <h2>Cloud Data Engineer</h2>
 
----
+  <h3>Building scalable cloud data platforms with Microsoft Azure & Microsoft Fabric</h3>
 
-## 🚀 About Me
+</div>
 
-- 🔭 Currently building end-to-end Data Engineering projects on Microsoft Azure and Microsoft Fabric.
-- 🌱 Continuously improving my expertise in modern Data Engineering and Analytics Engineering.
-- 💡 Passionate about cloud technologies, Lakehouse architecture, data transformation, and business intelligence.
-- 🎯 Seeking opportunities as a **Data Engineer** or freelance consultant.
+<h3>
 
----
+<h2>👨‍💻 About Me</h2>
 
-## 🛠️ Tech Stack
+<p>
+I design and build modern data platforms that transform raw data into reliable, business-ready insights.
+</p>
 
-### Cloud & Data Platforms
+<p>
+My work focuses on designing end-to-end data solutions using <b>Microsoft Azure</b>, <b>Microsoft Fabric</b>, <b>PySpark</b>, and <b>Power BI</b>, following best practices such as <b>Lakehouse Architecture</b>, <b>Medallion Architecture</b>, and scalable ETL/ELT pipelines.
+</p>
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7?style=for-the-badge)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge)
-![OneLake](https://img.shields.io/badge/OneLake-5B5FC7?style=for-the-badge)
+<p>
+I enjoy solving data challenges by creating robust, maintainable, and scalable architectures that help organizations make data-driven decisions.
+</p>
 
----
+<h3>
 
-### Languages & Data Processing
+<h2>🚀 What I Build</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<ul>
+  <li>End-to-End Data Platforms</li>
+  <li>Azure Data Engineering Solutions</li>
+  <li>Microsoft Fabric Lakehouses</li>
+  <li>ETL / ELT Pipelines</li>
+  <li>Lakehouse Architectures</li>
+  <li>Data Transformation with PySpark</li>
+  <li>Business Analytics & Reporting</li>
+  <li>Power BI Semantic Models</li>
+  <li>Cloud Data Warehousing</li>
+</ul>
 
----
+<h3>
 
-### Analytics & BI
+<h2>⭐ Featured Projects</h2>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<h3>🚀 Azure End-to-End Data Platform</h3>
 
----
+<ul>
+  <li>Azure Data Factory orchestration</li>
+  <li>Azure Data Lake Storage Gen2</li>
+  <li>Azure Databricks (PySpark)</li>
+  <li>Medallion Architecture</li>
+  <li>Business-ready Gold Layer</li>
+  <li>Interactive Power BI Dashboard</li>
+</ul>
 
-### Tools
+<h3>🚀 Microsoft Fabric Lakehouse</h3>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<ul>
+  <li>OneLake</li>
+  <li>Lakehouse</li>
+  <li>Dataflow Gen2</li>
+  <li>Fabric Notebooks</li>
+  <li>Semantic Model</li>
+  <li>Power BI Report</li>
+  <li>Business KPIs</li>
+</ul>
 
----
+<h3>
 
-# ⭐ Featured Projects
+<h2>🏗️ Engineering Principles</h2>
 
-## 🚀 End-to-End Azure Data Pipeline (E-commerce Analytics)
+<ul>
+  <li>Scalable Cloud Architecture</li>
+  <li>Modular & Reusable Pipelines</li>
+  <li>Medallion Architecture Design</li>
+  <li>Data Quality & Validation</li>
+  <li>Business-Oriented Data Modeling</li>
+  <li>Performance Optimization</li>
+  <li>Documentation First</li>
+  <li>Maintainable Code</li>
+  <li>Analytics-Ready Data</li>
+</ul>
 
-Modern Azure Data Engineering project implementing a complete ETL pipeline using:
+<h3>
 
-- Azure Data Factory
-- Azure Data Lake Storage Gen2
-- Azure Databricks
-- PySpark
-- Power BI
+<h2>🛠️ Tech Stack</h2>
 
-✔️ End-to-end pipeline
+<ul>
+  <li>Microsoft Azure</li>
+  <li>Microsoft Fabric</li>
+  <li>Azure Data Factory</li>
+  <li>Azure Databricks</li>
+  <li>Azure Data Lake Storage Gen2</li>
+  <li>OneLake</li>
+  <li>Python / PySpark / SQL</li>
+  <li>Power BI</li>
+  <li>Git & GitHub</li>
+</ul>
 
-✔️ Medallion Architecture
+<h3>
 
-✔️ Business Analytics
+<h2>📚 Currently Exploring</h2>
 
----
+<ul>
+  <li>Microsoft Fabric Advanced Features</li>
+  <li>Eventstream & Real-Time Intelligence</li>
+  <li>Fabric Pipelines Optimization</li>
+  <li>Advanced Spark Performance Tuning</li>
+  <li>Modern Data Warehouse Architectures</li>
+</ul>
 
-## 🚀 End-to-End Data Engineering with Microsoft Fabric
+<h3>
 
-Modern Lakehouse implementation using Microsoft Fabric.
+<h2>🤝 Let's Connect</h2>
 
-Technologies:
+<p>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/aboudoul-karim-ouattara-5baaba226/">My LinkedIn</a><br>
+📧 Email: <a href="mailto:ouattaraaboudoulkarim@gmail.com">ouattaraaboudoulkarim@gmail.com</a>
+</p>
 
-- OneLake
-- Lakehouse
-- Dataflow Gen2
-- Fabric Notebooks
-- Semantic Model
-- Power BI Report
+<h3>
 
-✔️ End-to-end Data Engineering
-
-✔️ Medallion Architecture
-
-✔️ Business-ready analytics
-
----
-
-# 💼 Core Skills
-
-- Data Engineering
-- Microsoft Azure
-- Microsoft Fabric
-- Azure Data Factory
-- Azure Databricks
-- Lakehouse Architecture
-- Medallion Architecture
-- ETL / ELT
-- PySpark
-- SQL
-- Power BI
-- Data Modeling
-- Data Transformation
-- Business Analytics
-
----
-
-# 📚 Currently Learning
-
-- Microsoft Fabric Advanced Features
-- Real-Time Intelligence
-- Eventstream
-- Fabric Pipelines
-- Data Warehouse Optimization
-- Advanced Spark Performance
-
----
-
-# 🤝 Connect with Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/aboudoul-karim-ouattara-5baaba226/
-
-📧 Email
-
-ouattaraaboudoulkarim@gmail.com
-
----
-
-> *"Turning raw data into trusted insights through modern Data Engineering."*
+<blockquote>
+  <b>Turning raw data into scalable cloud solutions and trusted business insights.</b>
+</blockquote>
