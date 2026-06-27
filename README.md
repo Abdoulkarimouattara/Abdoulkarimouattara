@@ -4,66 +4,60 @@
   <img src="banner.png" alt="Aboudoul Karim OUATTARA - Cloud Data Engineer Banner" width="100%" height="100%" />
 </div>
 
-<h2>👨‍💻 About Me</h2>
+<h2>
 
-<p>
-I design and build modern data platforms that transform raw data into reliable, business-ready insights.
-</p>
+# 👨‍💻 About Me
 
-<p>
-My work focuses on designing end-to-end data solutions using <b>Microsoft Azure</b>, <b>Microsoft Fabric</b>, <b>PySpark</b>, and <b>Power BI</b>, following best practices such as <b>Lakehouse Architecture</b>, <b>Medallion Architecture</b>, and scalable ETL/ELT pipelines.
-</p>
+I design and build **production-inspired data platforms** that transform raw operational data into trusted business insights.
 
-<p>
-I enjoy solving data challenges by creating robust, maintainable, and scalable architectures that help organizations make data-driven decisions.
-</p>
+My work focuses on **Microsoft Azure**, **Microsoft Fabric**, **PySpark**, and **Power BI**, with a strong emphasis on **Lakehouse Architecture**, **Medallion Architecture**, and scalable **ETL/ELT** solutions.
+
+I enjoy solving business problems through clean architecture, reusable data pipelines, and well-documented engineering practices.
 
 <h2>
 
-<h2>🚀 What I Build</h2>
+# ⭐ Featured Case Studies
 
-<ul>
-  <li>End-to-End Data Platforms</li>
-  <li>Azure Data Engineering Solutions</li>
-  <li>Microsoft Fabric Lakehouses</li>
-  <li>ETL / ELT Pipelines</li>
-  <li>Lakehouse Architectures</li>
-  <li>Data Transformation with PySpark</li>
-  <li>Business Analytics & Reporting</li>
-  <li>Power BI Semantic Models</li>
-  <li>Cloud Data Warehousing</li>
-</ul>
+## 🚀 Azure Retail Analytics Platform
 
-<h2>
+**Production-inspired Azure Data Platform**
 
-<h2>⭐ Featured Projects</h2>
+✔ Azure Data Factory orchestration
 
-<h3>🚀 Azure End-to-End Data Platform</h3>
+✔ Azure Data Lake Storage Gen2
 
-<ul>
-  <li>Azure Data Factory orchestration</li>
-  <li>Azure Data Lake Storage Gen2</li>
-  <li>Azure Databricks (PySpark)</li>
-  <li>Medallion Architecture</li>
-  <li>Business-ready Gold Layer</li>
-  <li>Interactive Power BI Dashboard</li>
-</ul>
+✔ Azure Databricks (PySpark)
+
+✔ Medallion Architecture
+
+✔ Interactive Power BI Dashboard
+
+📖 Architecture Documentation
+
+📚 Technical Case Study
 <p align="left">
   <a href="https://github.com/Abdoulkarimouattara/azure-ecommerce-data-pipeline">
     <img src="https://img.shields.io/badge/View%20Project-Click%20Here-6e7681?style=for-the-badge&logo=github" />
   </a>
 </p>
-<h3>🚀 Microsoft Fabric Lakehouse</h3>
 
-<ul>
-  <li>OneLake</li>
-  <li>Lakehouse</li>
-  <li>Dataflow Gen2</li>
-  <li>Fabric Notebooks</li>
-  <li>Semantic Model</li>
-  <li>Power BI Report</li>
-  <li>Business KPIs</li>
-</ul>
+## 🚀 Microsoft Fabric Unified Analytics Platform
+
+**End-to-end analytics platform built entirely on Microsoft Fabric**
+
+✔ OneLake & Lakehouse
+
+✔ Dataflow Gen2
+
+✔ Fabric Notebook (PySpark)
+
+✔ Semantic Model
+
+✔ Interactive Power BI Report
+
+📖 Architecture Documentation
+
+📚 Technical Case Study
 <p align="left">
   <a href="https://github.com/Abdoulkarimouattara/microsoft-fabric-medallion-architecture">
     <img src="https://img.shields.io/badge/View%20Project-Click%20Here-6e7681?style=for-the-badge&logo=github" />
@@ -71,48 +65,80 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
 </p>
 <h2>
 
-<h2>🏗️ Engineering Principles</h2>
+# 🎯 Core Expertise
 
-<ul>
-  <li>Scalable Cloud Architecture</li>
-  <li>Modular & Reusable Pipelines</li>
-  <li>Medallion Architecture Design</li>
-  <li>Data Quality & Validation</li>
-  <li>Business-Oriented Data Modeling</li>
-  <li>Performance Optimization</li>
-  <li>Documentation First</li>
-  <li>Maintainable Code</li>
-  <li>Analytics-Ready Data</li>
-</ul>
+* ☁️ Cloud Data Engineering
+* 🏗️ Lakehouse & Medallion Architecture
+* ⚡ End-to-End ETL / ELT Pipelines
+* 📊 Business Analytics & Semantic Modeling
+* 📈 Power BI Reporting
+* 🐍 PySpark Data Processing
+* ☁️ Microsoft Azure
+* 🟣 Microsoft Fabric
+  
+<h2>
+
+# 🏛️ Engineering Philosophy
+
+I believe that successful data platforms are built on strong engineering principles rather than technology alone.
+
+* Business value before technology
+* Architecture before implementation
+* Data quality is non-negotiable
+* Reusable solutions over quick fixes
+* Documentation is part of engineering
 
 <h2>
 
-<h2>🛠️ Tech Stack</h2>
+# 🛠️ Tech Stack
 
-<ul>
-  <li>Microsoft Azure</li>
-  <li>Microsoft Fabric</li>
-  <li>Azure Data Factory</li>
-  <li>Azure Databricks</li>
-  <li>Dataflow Gen2</li>
-  <li>Azure Data Lake Storage Gen2</li>
-  <li>OneLake</li>
-  <li>Python / PySpark / SQL</li>
-  <li>Power BI</li>
-  <li>Git & GitHub</li>
-</ul>
+### ☁️ Cloud & Data Platforms
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-5B5FC7?style=for-the-badge)
+![OneLake](https://img.shields.io/badge/OneLake-5B5FC7?style=for-the-badge)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-5B5FC7?style=for-the-badge)
+
+### 🔄 Data Integration & Orchestration
+
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![Dataflow Gen2](https://img.shields.io/badge/Dataflow%20Gen2-5B5FC7?style=for-the-badge)
+![Fabric Pipelines](https://img.shields.io/badge/Fabric%20Pipelines-5B5FC7?style=for-the-badge)
+
+### ⚡ Data Processing
+
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-EF3E42?style=for-the-badge)
+![Fabric Notebooks](https://img.shields.io/badge/Fabric%20Notebooks-5B5FC7?style=for-the-badge)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### 🏗️ Architecture & Modeling
+
+![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-181717?style=for-the-badge)
+![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-181717?style=for-the-badge)
+![Semantic Model](https://img.shields.io/badge/Semantic%20Model-5B5FC7?style=for-the-badge)
+
+### 📊 Analytics & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics-181717?style=for-the-badge)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
 
 <h2>
 
 <h2>📚 Currently Exploring</h2>
 
-<ul>
-  <li>Microsoft Fabric Advanced Features</li>
-  <li>Eventstream & Real-Time Intelligence</li>
-  <li>Fabric Pipelines Optimization</li>
-  <li>Advanced Spark Performance Tuning</li>
-  <li>Modern Data Warehouse Architectures</li>
-</ul>
+* Microsoft Fabric Real-Time Intelligence
+* Eventstream
+* Fabric Pipelines
+* Advanced Spark Performance Tuning
+* Modern Data Warehouse Architectures
 
 <h2>
 
@@ -126,5 +152,5 @@ I enjoy solving data challenges by creating robust, maintainable, and scalable a
 <h2>
 
 <blockquote>
-  <b>Turning raw data into scalable cloud solutions and trusted business insights.</b>
+  <b>Designing modern cloud data platforms where architecture, engineering, and business value work together.</b>
 </blockquote>
